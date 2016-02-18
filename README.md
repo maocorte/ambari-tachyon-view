@@ -1,7 +1,7 @@
 #### Ambari Tachyon View
 Embed Tachyon UI into Ambari.
 Tachyon is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks.
-This is a simple example.
+This code is just for example purposes, it is not usable in production environment.
 
 Author: [Mauro Cortellazzi](https://github.com/maocorte)
 
